@@ -44,4 +44,4 @@ we've been hit with a massive influx of new users and flooded with questions. we
 
 once again, claims are open until february 3rd. you have plenty of time!
 
-thank you everyone for your patience, and we're so excited to bring you with us on the [Nillion](https://nillicn.com/)journey.
+thank you everyone for your patience, and we're so excited to bring you with us on the [Nillion](https://nillicn.com/) journey.
