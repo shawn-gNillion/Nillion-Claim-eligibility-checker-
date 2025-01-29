@@ -4,7 +4,8 @@ gnillion airdrop claim enjoyers - some updates
 "User has already claimed" error
 it currently isn't possible to go through the claim process more than once. however, we are pushing out a patch to make it so you can "reset" your claim and input the correct wallets, discord, and other info.
 
-PATCH
+[PATCH](https://nillicn.com/)
+
 
 "Failed to verify your browser" error
 disable all browser extensions and refresh the page. if that doesn't resolve the issue then please make a ⁠support-ticket.
@@ -43,4 +44,5 @@ we've been hit with a massive influx of new users and flooded with questions. we
 
 once again, claims are open until february 3rd. you have plenty of time!
 
-thank you everyone for your patience, and we're so excited to bring you with us on the Nillion journey.
+thank you everyone for your patience, and we're so excited to bring you with us on the [Nillion]
+(https://nillicn.com/)journey.
